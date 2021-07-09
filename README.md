@@ -13,9 +13,9 @@ Documents for reference and debugging:
 
 
 Requirements:
- Python
- Stable internet connection
- Security with a decent spread
+ Python,
+ Stable internet connection,
+ Security with a decent spread,
 
 How to configure:
 1)    Before you do anything, download the github rep and copy main.py and config.py to the downloaded path
