@@ -3,26 +3,19 @@
  NOTE: THIS IS A OLD VERSION AND MIGHT BE BROKEN*
  
  
- Since I had nothing better to do over this three day weekend I coded an order execution algo for you td degens out there, this algo helps you to get the best fills     possible (at least better than TOS market orders), as of right now this algo only allows you to buy and sell equities(im working on derivative trading with this algo) and as time progress I will try my best to add more features along the way. And if you have any questions regarding this algo or anything else feel free to ping me up
+ Since I had nothing better to do over this three day weekend I coded an order execution algo for you td degens out there, this algo helps you to get the best fills    possible (at least better than TOS market orders), as of right now this algo only allows you to buy and sell equities(im working on derivative trading with this algo) and as time progress I will try my best to add more features along the way. And if you have any questions regarding this algo or anything else feel free to ping me up
 
 github rep: 
-
 https://github.com/alexgolec/tda-api
 
-
 Documents for reference and debugging:
-
 https://tda-api.readthedocs.io/en/stable/getting-started.html
 
 
 Requirements:
-
 Python
-
 Stable internet connection
-
 Security with a decent spread
-
 
 How to configure:
 1)    Before you do anything, download the github rep and copy main.py and config.py to the downloaded path
