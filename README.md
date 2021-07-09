@@ -1,6 +1,6 @@
 # tda-price-fighter
  This algo helps you to get the best fills possible (at least better than TOS market orders)
-  NOTE: THIS IS A OLD VERSION AND MIGHT BE BROKEN*
+ NOTE: THIS IS A OLD VERSION AND MIGHT BE BROKEN*
  
  
  Since I had nothing better to do over this three day weekend I coded an order execution algo for you td degens out there, this algo helps you to get the best fills    possible (at least better than TOS market orders), as of right now this algo only allows you to buy and sell equities(im working on derivative trading with this algo) and as time progress I will try my best to add more features along the way. And if you have any questions regarding this algo or anything else feel free to ping me up
